@@ -3,6 +3,8 @@
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
 
+[!] Note that this is a fork of the original CrazyS code. Minor changes have been made to update CrazyS to ROS Noetic by the University of Iowa CAS Lab.
+
 CrazyS
 ===============
 
